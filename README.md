@@ -17,3 +17,9 @@ Plans for the case
 Used libraries:
 * https://github.com/adafruit/Adafruit-GFX-Library
 * https://github.com/adafruit/RGB-matrix-Panel
+
+See:
+
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
+
+for info on using submodules
