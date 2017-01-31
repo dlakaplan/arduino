@@ -1,0 +1,6 @@
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library
+[submodule "RGB-matrix-Panel"]
+	path = RGB-matrix-Panel
+	url = https://github.com/adafruit/RGB-matrix-Panel
