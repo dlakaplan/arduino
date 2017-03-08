@@ -23,3 +23,10 @@ See:
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 for info on using submodules
+
+### AstroTracker
+
+
+Used library:
+* http://www.airspayce.com/mikem/arduino/AccelStepper/ (also see https://www.pjrc.com/teensy/td_libs_AccelStepper.html)
+
