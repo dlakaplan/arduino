@@ -25,8 +25,10 @@ https://git-scm.com/book/en/v2/Git-Tools-Submodules
 for info on using submodules
 
 ### AstroTracker
+Barn-door tracker for astrophotography.  Hardware is based off:
+* https://www.thingiverse.com/thing:1133193
+But the software has been extensively updated.
 
-
-Used library:
+There are both blocking and non-blocking versions in there.  For the non-blocking version, I use library:
 * http://www.airspayce.com/mikem/arduino/AccelStepper/ (also see https://www.pjrc.com/teensy/td_libs_AccelStepper.html)
 
